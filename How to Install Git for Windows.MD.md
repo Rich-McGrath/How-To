@@ -1,6 +1,6 @@
 # How to Install Git For Windows.
 ## 1. Open the Microsoft Store and search for "VSCODE" or "Visual Studio Code" and Click Install or click this  [Link](https://apps.microsoft.com/store/detail/XP9KHM4BK9FZ7Q)
-(https://github.com/Rich-McGrath/How-To/tree/main/Images/VscodeInstall.png)
+![alt text](https://github.com/Rich-McGrath/How-To/tree/main/Images/VscodeInstall.png)
 ## 2. Download the GIT Installer (https://gitforwindows.org)
 ![alt text](https://github.com/Rich-McGrath/How-To/tree/main/Images/GitForWindowsDownload.png "GitForWindows.com")
 ## 3. Double Click on The Installer you Downloaded
