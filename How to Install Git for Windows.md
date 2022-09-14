@@ -23,7 +23,7 @@
 
 ![alt text](Images/EnablefileSystemcaching.png "Enable File System Caching")
 
-![alt text](firImages/skip.png "SKIP")
+![alt text](Images/skip.png "SKIP")
 
 
       
