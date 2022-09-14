@@ -8,14 +8,22 @@
 ## 4. Follow these selected options for you Git For Windows Install
 
 ![alt text](Images/GitChooseyourDefaultEditor.png "Choose your Default Editor")
+
 ![alt text](Images/GitPATHRecommended.png "Recommended Git Path")
+
 ![alt text](Images/BundledOpenSSH.png "Bundle OpenSSH")
+
 ![alt text](Images/CheckoutWindowsStyle.png "Check out Windows Style")
+
 ![alt text](Images/UseMinTTY.png "Use MinTTY")
+
 ![alt text](Images/Defaultfast-forward.png "Default Fast Forward")
+
 ![alt text](Images/GitCredemtialManager.png "Git Credential Manager")
+
 ![alt text](Images/EnablefileSystemcaching.png "Enable File System Caching")
-![alt text](Images/skip.png "SKIP")
+
+![alt text](firImages/skip.png "SKIP")
 
 
       
